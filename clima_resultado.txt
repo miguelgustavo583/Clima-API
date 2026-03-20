@@ -1,0 +1,4 @@
+Timezone: America/Sao_Paulo
+Data/Hora: 2026-03-20T18:00
+Temperatura: 23.5 °C
+Vento: 14.0 km/h
